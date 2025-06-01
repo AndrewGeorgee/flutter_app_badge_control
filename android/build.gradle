@@ -27,7 +27,7 @@ apply plugin: 'kotlin-android'
 android {
     compileSdkVersion 31
     namespace 'fr.g123k.flutterappbadger'
-
+namespace 'jp.co.funseek.flutter_app_badge_control'
     compileOptions {
         sourceCompatibility JavaVersion.VERSION_1_8
         targetCompatibility JavaVersion.VERSION_1_8
